@@ -1,11 +1,15 @@
-### Welcome to DistantOS - #YourOS,YourWAY
+### Welcome to DistantStudios
 # Hi, Hello, Hola, Bonjour, Hallo, Hei...
-Hey! It's nice to know you found us! Welcome to <ins>DistantOS</ins>, an operating system that listens to you... not just go with it's own accord.
+Hey! Welcome to DistantStudios! We're glad you found us here. <ins>DistantStudios</ins> is a site that creates many projects, but mainly focusing on very few.
 
-### I'm confused... What is <ins>DistantOS</ins>?
-Let's put this in basic terms:
+---
+## Our Projects
+Ok, so we've created a load of projects before - ones that <ins>have</ins> succeeded, and ones that <ins>haven't</ins>. We're just going to give you a brief overview of the ones we're focusing on.
 
-DistantOS is an **operating system** designed to fit your needs. Unlike other OSes, DistantOS actually listens to the designs and features <ins>YOU</ins> want.
+### Project 1 - <ins>DistantOS</ins> (BETA)
+You found one of the projects that not many people have attempted. That is... **<ins>creating an OS</ins>**. It's ambitious, and we know that but once completed... can turn out to be very cool.
 
-## Any other questions?
-We can help you if you do have any others. Just use this link: https://tally.so/r/kd56qZ
+DistantOS is a <ins>Linux</ins> distribution mainly focusing on it's "change appearence at will". This is mainly from it's tagline - **#YourOS,YourWAY**
+
+### Project 2 - <ins>Distant</ins> (ALPHA)
+Okay, so <ins>Distant</ins> is a coding editor forked off VS Code. It's main intention is to let people code (obvious) but to have more features than that. <ins>Distant</ins> will take slower to build as we're mainly focusing on <ins>DistantOS</ins>.
